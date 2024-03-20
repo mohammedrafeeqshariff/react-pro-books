@@ -1,0 +1,29 @@
+body{
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+.imgdes p{
+    margin-left: 2%;
+}
+
+.imgdes{
+    margin-left: 2%;
+}
+
+.books-container h3, h4{
+    margin-left: 2%;
+}
+
+.error{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 15% ;
+}
+
+.error h2{
+    font-size: 700%;
+}
